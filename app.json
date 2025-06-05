@@ -1,8 +1,8 @@
 {
-  "name":"NEXUS-AI",
+  "name":"DENNIS TECH",
   "description":"Best whatsapp bot💥 developed by   Pkdriller 🇰🇪 ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/pdhcob.jpeg",
+  "logo":"https://files.catbox.moe/kgd95b.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -96,15 +96,15 @@
     {
     
     "desc": "Your Name",
-    "required": false,
-    "value": "NEXUS-AI"
+    "required": true,
+    "value": "DENNIS TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": ""
+    "value": "254700570972"
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"typing",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
